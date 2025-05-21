@@ -1,8 +1,8 @@
-**Note: ce fichier de coloration syntaxique est maintenant [inclus dans GtkSourceView](https://git.gnome.org/browse/gtksourceview/commit/?id=db965e3a) à partir de la version 3.9.2.**
+**Note: ce fichier de coloration syntaxique est maintenant [inclus dans GtkSourceView](https://github.com/GNOME/gtksourceview/commit/db965e3ac704c574d04023606d4b7afc4ec133ad) à partir de la version 3.9.2.**
 
 ## Aperçu
 
-gedit-mediawiki ajoute la coloration syntaxique de la [syntaxe MediaWiki](http://meta.wikimedia.org/wiki/Aide:Syntaxe_wiki) dans gedit, l'éditeur de texte par défaut de Gnome.
+gedit-mediawiki ajoute la coloration syntaxique de la [syntaxe MediaWiki](http://meta.wikimedia.org/wiki/Aide:Syntaxe_wiki) dans gedit, l'éditeur de texte par défaut de GNOME.
 
 Voici une capture d'écran:
 
@@ -39,7 +39,7 @@ Le logiciel Git est utilisé pour la gestion de versions. [Le dépôt peut être
 
 ## Licence
 
-Auteur: Jean-Philippe Fleury (<http://www.jpfleury.net/contact.php>)  
+Auteur: Jean-Philippe Fleury (<https://github.com/jpfleury>)  
 Copyright © Jean-Philippe Fleury, 2009.
 
 Ce programme est un logiciel libre; vous pouvez le redistribuer ou

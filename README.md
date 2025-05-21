@@ -1,8 +1,8 @@
-**Note: this syntax highlighting file is now [shipped with GtkSourceView](https://git.gnome.org/browse/gtksourceview/commit/?id=db965e3a) since version 3.9.2.**
+**Note: This syntax highlighting file is now officially [included in GtkSourceView](https://github.com/GNOME/gtksourceview/commit/db965e3ac704c574d04023606d4b7afc4ec133ad) since version 3.9.2.**
 
 ## Overview
 
-gedit-mediawiki adds [MediaWiki](http://meta.wikimedia.org/wiki/Help:Editing) syntax highlighting in gedit, the default Gnome text editor.
+gedit-mediawiki adds [MediaWiki](http://meta.wikimedia.org/wiki/Help:Editing) syntax highlighting to gedit, the default GNOME text editor.
 
 Here's a screenshot:
 
@@ -39,7 +39,7 @@ Git is used for revision control. [Repository can be browsed online or cloned.](
 
 ## License
 
-Author: Jean-Philippe Fleury (<http://www.jpfleury.net/en/contact.php>)  
+Author: Jean-Philippe Fleury (<https://github.com/jpfleury>)  
 Copyright © 2009 Jean-Philippe Fleury
 
 This library is free software; you can redistribute it and/or
